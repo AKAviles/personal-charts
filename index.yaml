@@ -1,0 +1,14 @@
+apiVersion: v1
+entries:
+  personal-charts:
+  - apiVersion: v2
+    appVersion: 1.16.0
+    created: "2023-04-02T13:26:21.6106458-05:00"
+    description: A Helm chart for Kubernetes
+    digest: b2b0a2d579c8532c4150b4518ccf778e3cd623330b179c317534552c63275775
+    name: personal-charts
+    type: application
+    urls:
+    - charts/personal-charts-0.1.0.tgz
+    version: 0.1.0
+generated: "2023-04-02T13:26:21.6106458-05:00"
